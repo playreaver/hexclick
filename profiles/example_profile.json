@@ -1,0 +1,11 @@
+{
+  "name": "Fast Gaming",
+  "description": "Optimized for fast-paced FPS games",
+  "author": "HexClick Team",
+  "profile": {
+    "avg_interval": 0.08,
+    "interval_variance": 0.01,
+    "avg_hold": 0.04,
+    "hold_variance": 0.005
+  }
+}
